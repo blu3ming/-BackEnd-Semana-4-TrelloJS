@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/blu3ming/-BackEnd-Semana-4-TrelloJS#readme",
   "dependencies": {
-    "dotenv": "^16.0.0"
+    "dotenv": "^16.0.0",
+    "trello": "^0.11.0"
   }
 }
