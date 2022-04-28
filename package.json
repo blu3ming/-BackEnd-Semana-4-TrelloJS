@@ -1,0 +1,23 @@
+{
+  "name": "trellojs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blu3ming/-BackEnd-Semana-4-TrelloJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blu3ming/-BackEnd-Semana-4-TrelloJS/issues"
+  },
+  "homepage": "https://github.com/blu3ming/-BackEnd-Semana-4-TrelloJS#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0"
+  }
+}
